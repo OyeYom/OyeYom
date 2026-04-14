@@ -47,12 +47,12 @@ I enjoy solving real-world problems using technology, especially in **energy and
 
 | Project | Description | Repo |
 |---|---|---|
-| STM32F103 Microcontroller PCB | Custom breakout board with USB, power regulation & full GPIO headers | [View →](https://github.com/YOUR_USERNAME/pcb-stm32f103-breakout) |
-| Robot Car PCB (STM32 + Motor Driver) | Combined STM32F103 & TB6612FNG board sized to robot chassis | [View →](https://github.com/YOUR_USERNAME/pcb-robot-car-combined) |
-| Bluetooth Robot Car PCB | STM32WB55 (BLE 5.0) + TB6612FNG with USB-C, RF frontend & USB protection | [View →](https://github.com/YOUR_USERNAME/pcb-robot-car-bluetooth) |
-| Obstacle Avoiding Robot Car | Autonomous robot car PCB with sensor integration | [View →](https://github.com/YOUR_USERNAME/pcb-obstacle-avoiding-robot) |
-| IoT Smart Lamp — Raspberry Pi Pico | Smart lighting system built and taught to secondary school students | [View →](https://github.com/YOUR_USERNAME/iot-smart-lamp-pico) |
-| Battery Pack Design | 10s20p Li-ion battery pack with BMS — design, calculation & testing | [View →](https://github.com/YOUR_USERNAME/battery-pack-design) |
+| STM32F103 Microcontroller PCB | Custom breakout board with USB, power regulation & full GPIO headers | [View →](https://github.com/OyeYom/pcb-stm32f103-breakout) |
+| Robot Car PCB (STM32 + Motor Driver) | Combined STM32F103 & TB6612FNG board sized to robot chassis | [View →](https://github.com/OyeYom/pcb-robot-car-combined) |
+| Bluetooth Robot Car PCB | STM32WB55 (BLE 5.0) + TB6612FNG with USB-C, RF frontend & USB protection | [View →](https://github.com/OyeYom/pcb-robot-car-bluetooth) |
+| Obstacle Avoiding Robot Car | Autonomous robot car PCB with sensor integration | [View →](https://github.com/OyeYom/pcb-obstacle-avoiding-robot) |
+| IoT Smart Lamp — Raspberry Pi Pico | Smart lighting system built and taught to secondary school students | [View →](https://github.com/OyeYom/iot-smart-lamp-pico) |
+| Battery Pack Design | 10s20p Li-ion battery pack with BMS — design, calculation & testing | [View →](https://github.com/OyeYom/battery-pack-design) |
 
 > PCB designs built with **Altium Designer** · IoT projects use **MicroPython on Raspberry Pi Pico** and **C/C++ on Arduino**
 
